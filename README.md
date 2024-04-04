@@ -1,0 +1,10 @@
+The main objective of the Project on Online Food Management System is to manage the details of Food Item, Category, Customer, Order, and Confirm Order. It manages all the information about Food Item, Payment, Confirm Order, and Food Item. The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the Food Item, Category, Payment, and Customer. It tracks all the details about the Customer, Order, and Confirm Order.
+![image](https://github.com/Ssaurabhs/Online_Food_Delivery/assets/136882841/9bc0b709-ee60-4248-8d06-c6c7524e4454)
+![image](https://github.com/Ssaurabhs/Online_Food_Delivery/assets/136882841/8e83b70a-39d4-46cc-b2ff-283f34ddd5df)
+![image](https://github.com/Ssaurabhs/Online_Food_Delivery/assets/136882841/9d83c6bb-ab4c-48f3-a3a0-1bfc034839e5)
+![image](https://github.com/Ssaurabhs/Online_Food_Delivery/assets/136882841/2d37220f-b565-4e0c-a5b9-6837e306178d)
+![image](https://github.com/Ssaurabhs/Online_Food_Delivery/assets/136882841/44bd9415-9074-4dd7-a259-d0936c5bf761)
+![image](https://github.com/Ssaurabhs/Online_Food_Delivery/assets/136882841/3a738eb9-e9b0-4b7e-b815-a53760b0dbb1)
+![image](https://github.com/Ssaurabhs/Online_Food_Delivery/assets/136882841/539952b8-eba8-42b8-ac0a-aadb9cd530e3)
+![image](https://github.com/Ssaurabhs/Online_Food_Delivery/assets/136882841/5bd45fba-9504-45ae-9839-14cf25896a46)
+![image](https://github.com/Ssaurabhs/Online_Food_Delivery/assets/136882841/a9c6a6e0-105b-46c2-99af-052f2a9620d5)
